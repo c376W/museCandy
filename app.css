@@ -1,0 +1,23 @@
+body{
+	background:#f5d9d5;
+	font-family: 'Indie Flower', cursive;
+}
+
+#mainNavbar{
+	font-size:2rem;
+}
+
+#mainNavbar .nav-link{
+	color:white;
+
+}
+
+#mainNavbar .nav-link:hover{
+	color:#c1225d;
+
+}
+
+#mainNavbar .navbar-brand{
+	color:#c1225d;
+	font-size:2rem;
+}
