@@ -26,3 +26,16 @@ body{
 	color:#c1225d;
 	font-size:2rem;
 }
+
+@media(max-width: 243px){
+	#mainNavbar .navbar-brand{
+		font-size:10px;
+	}
+
+}
+
+@media(max-width: 902px){
+	#mainNavbar{
+		font-size:25px;
+	}
+}
