@@ -3,6 +3,11 @@ body{
 	font-family: 'Indie Flower', cursive;
 }
 
+.title-text{
+	color:white;
+	font-size:3rem;
+}
+
 #mainNavbar{
 	font-size:2rem;
 }
